@@ -10,8 +10,8 @@ javascript:(function() {
     }
 
     const urls = [
-        'https://raw.githubusercontent.com/PXIFusionX/Fusion-Loader/main/api/set-data',
-        'https://raw.githubusercontent.com/PXIFusionX/Fusion-Loader/main/api/token'
+        'https://raw.githubusercontent.com/NotRexed/Fusion-Loader/main/api/set-data',
+        'https://raw.githubusercontent.com/NotRexed/Fusion-Loader/main/api/token'
     ];
 
     urls.reduce((promise, url) => {
