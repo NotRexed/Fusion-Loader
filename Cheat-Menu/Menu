@@ -277,10 +277,10 @@
     premiumSection.innerHTML = `
         <h2>Premium Hacks</h2>
         <div>
-            <button id="kickPlayer" class="locked">Kick Player</button>
-            <button id="botPanel" class="locked">Bot Panel</button>
-            <button id="movePlayer" class="locked">Move Player</button>
-            <button id="viewPlayerData" class="locked">View Player Data</button>
+            <button id="kickPlayer">Kick Player</button>
+            <button id="botPanel">Bot Panel</button>
+            <button id="movePlayer">Move Player</button>
+            <button id="viewPlayerData">View Player Data</button>
         </div>
     `;
     menu.appendChild(premiumSection);
